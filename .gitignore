@@ -17,5 +17,3 @@ static/
 *.njsproj
 *.sln
 
-src/components/Main.vue
-src/router
